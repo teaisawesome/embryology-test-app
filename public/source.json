@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "question": "Válassza ki a három helyes állítást!",
+            "answers": [
+                "A női csírasejtek száma az intrauterin élet 5. hónapjában kb. 7 millió.",
+                "A női csírasejtek száma születéskor szignifikánsan alacsonyabb, mint az intrauterin élet 5. hónapjában.",
+                "A gyermekkor életszakaszában a legtöbb oocyta atretikus lesz; kevesebb, mint 500 éri meg az ovulációt.",
+                "A női csírasejtek száma az intrauterin élet 5. hónapjában kb. 2 millió.",
+                "A női csírasejtek száma pubertáskor kb. 400."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A spermato- és spermiogenezis folyamatának hossza kb. 74 nap.",
+                "A spermato- és spermiogenezis folyamatának hossza kb. 4 nap.",
+                "A spermatogenesis folyamatának hossza kb. 36 nap, míg a spermiogenesis kb. 64 napig tart.",
+                "A spermato- és spermiogenezis folyamatának hossza kb. 100 nap.",
+                "A spermato- és spermiogenezis folyamatának hossza kevesebb mint egy óra."
+            ],
+            "rightAnswers": [1]
+        }
+    ]
+}
