@@ -38,7 +38,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="flex flex-col items-center bg-teal-900 h-screen">
       {
         finished && questions && questions.data
         ? <Result questionParams={questions.data} results={result}/>

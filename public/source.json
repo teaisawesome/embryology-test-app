@@ -21,6 +21,18 @@
                 "A spermato- és spermiogenezis folyamatának hossza kevesebb mint egy óra."
             ],
             "rightAnswers": [1]
+        },
+        {
+            "question": "Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a nyíllal jelölt képlet a cumulus oophorus.",
+                "A kép egy secunder tüszőt ábrázol, benne a nyíllal jelölt képlet a cumulus oophorus, amelynek legbelső sejtjei alkotják a corona radiátát.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a nyíllal jelölt képlet a theca interna.",
+                "A kép egy secunder tüszőt ábrázol, benne a nyíllal jelölt képlet a theca interna.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a nyíllal jelölt képlet a cumulus oophorus, amely a secunder oocytát tartalmazza."
+            ],
+            "rightAnswers": [1],
+            "image": "31_abra.jpg"
         }
     ]
 }
