@@ -13,16 +13,24 @@ export default function Home() {
 
   const [finished, setFinisned] = useState(false)
 
+  const getRandomQuestions = (array, num) => {
+    const shuffled = [...array].sort(() => 0.5 - Math.random())
+    return shuffled.slice(0, num)
+  }
+
   useEffect(() => {
     fetch('/source.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Failed to fetch source.json');
         }
-        return response.json();
+        return response.json()
       })
-      .then((data) => setQuestions(data))
-      .catch((error) => console.error('Error fetching JSON:', error));
+      .then((source) => {
+        const randomQuestions = getRandomQuestions(source.data, 10)
+        setQuestions(randomQuestions)
+      })
+      .catch((error) => console.error('Error fetching JSON:', error))
   }, [])
 
   const handleNextTask = () => {
@@ -40,21 +48,21 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center bg-teal-900 h-screen">
       {
-        finished && questions && questions.data
-        ? <Result questionParams={questions.data} results={result}/>
-        : questions && questions.data ? 
+        finished && questions
+        ? <Result questionParams={questions} results={result}/>
+        : questions ? 
         <>
           <Task
           key={currQuestionIndex}
-          qData={questions.data[currQuestionIndex]}
+          qData={questions[currQuestionIndex]}
           metaData={{
             currQuestionIndex,
-            maxQuestionIndex: questions.data.length
+            maxQuestionIndex: questions.length
           }}
           onNextTask={() => handleNextTask()}
           onFinishTask={() => handleFinishTask()}
           onTaskResult={handleTaskResult}/>
-          <p>{currQuestionIndex + 1} / {questions.data.length} kérdés</p>
+          <p>{currQuestionIndex + 1} / {questions.length} kérdés</p>
         </>
         : <p>Loading...</p>
       }

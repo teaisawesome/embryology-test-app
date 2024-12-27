@@ -49,7 +49,7 @@ export default function Result({ questionParams, results }) {
                             <p className="bg-green-700 rounded-sm border my-1 p-1" key={index}>✅ {answer}</p> :
                                 questionParams[currTaskIndex].rightAnswers.includes(index + 1) &&
                                 !results[currTaskIndex].submittedAnswers.includes(index + 1) ?
-                                <p className="bg-blue-700 rounded-sm border my-1 p-1" key={index}>💤 {answer}</p> :
+                                <p className="bg-blue-600 rounded-sm border my-1 p-1" key={index}>ℹ️ {answer}</p> :
                                     !questionParams[currTaskIndex].rightAnswers.includes(index + 1) &&
                                     results[currTaskIndex].submittedAnswers.includes(index + 1) ?
                                     <p className="bg-red-700 rounded-sm border my-1 p-1" key={index}>❌ {answer}</p> :

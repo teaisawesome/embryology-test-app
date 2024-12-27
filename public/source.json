@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "Válassza ki a három helyes állítást!",
+            "question": "1. Válassza ki a három helyes állítást!",
             "answers": [
                 "A női csírasejtek száma az intrauterin élet 5. hónapjában kb. 7 millió.",
                 "A női csírasejtek száma születéskor szignifikánsan alacsonyabb, mint az intrauterin élet 5. hónapjában.",
@@ -12,13 +12,321 @@
             "rightAnswers": [1, 2, 3]
         },
         {
-            "question": "Válassza ki az egyetlen helyes állítást!",
+            "question": "2. Válassza ki az egyetlen helyes állítást!",
             "answers": [
                 "A spermato- és spermiogenezis folyamatának hossza kb. 74 nap.",
                 "A spermato- és spermiogenezis folyamatának hossza kb. 4 nap.",
                 "A spermatogenesis folyamatának hossza kb. 36 nap, míg a spermiogenesis kb. 64 napig tart.",
                 "A spermato- és spermiogenezis folyamatának hossza kb. 100 nap.",
                 "A spermato- és spermiogenezis folyamatának hossza kevesebb mint egy óra."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "3. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A spermium élettartama 4-5 nap.",
+                "A spermium élettartama 1-2 nap.",
+                "A spermium élettartama 1-2 hét.",
+                "A spermium élettartama 15 nap.",
+                "A spermium élettartama 4 hét."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "4. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Az oocyta élettartama 24 óra.",
+                "Az oocyta élettartama 2 óra.",
+                "Az oocyta élettartama 4 óra.",
+                "Az oocyta élettartama 10 nap.",
+                "Az oocyta élettartama 30-40 óra."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "5. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A spermiumok száma az ejakulátumban 40-100 millió/ml.",
+                "Az ejakulátum mennyisége kb. 3,5 ml.",
+                "Az ejakulátum mennyisége kb. 1 ml.",
+                "A spermiumok száma az ejakulátumban 100 000/ml.",
+                "A spermiumok száma az ejakulátumban 1-2 millió/ml/ml."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "6. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Az ejakulátum prostaglandinokat tartalmaz.",
+                "Az ejakulátum fruktózt tartalmaz.",
+                "Az ejakulátumban lévő fruktóz energiaforrás a spermiumok számára.",
+                "Az ejakulátumban lévő ATP energiaforrás a spermiumok számára.",
+                "Az ejakulátumban lévő ATP és fructose energiaforrás a spermiumok számára."
+            ],
+            "rightAnswers": [1, 2,3]
+        },
+        {
+            "question": "7. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "Gametogenesisnek nevezzük a megtermékenyítésre alkalmas oocyta és spermium kialakulásának folyamatát.",
+                "A primordialis csírasejtek az epiblastban alakulnak ki, és a primitív csíkon keresztül kivándorolnak a szikhólyag falába a második embrionális héten.",
+                "A gametogenesis során kromoszóma szám csökkenés és sejtdifferenciáció történik.",
+                "A szikhólyag falából az ősivarsejtek a fejlődő gonádokba érkeznek a negyedik embrionális héten.",
+                "Gametogenesisnek nevezzük azt a folyamatot, amelynek során az ősivarsejtek kialakulnak a szikhólyag falában."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "8. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Oogenesisnek nevezzük azt a folyamatot, amelynek során az oogoniumokból definitív oocyták alakulnak ki.",
+                "Ogenesisnek nevezzük az oogoniumok kialakulását az ősivarsejtekből.",
+                "Az oogenesis folyamata a születés után kezdődik.",
+                "Oogenesisnek nevezzük az elsőrendű oocyta és az első sarki test kialakulását.",
+                "Az oogenesis a pubertás korban kezdődik."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "9. Válassza ki a két helyes állítást!",
+            "answers": [
+                "Spermatogenesisnek nevezzük azt a folyamatot, amelynek során a spermatogoniumokból spermatidák alakulnak ki.",
+                "A spermatogenesis a pubertás korban kezdődik, a sötét A típusú spermatogonium oszlása után kialakuló sejt a világos A típusú spermatogonium.",
+                "A spermatogenesis a születéskor kezdődik, a sötét A típusú spermatogoniumból közvetlenül kialakuló sejt a primer spermatocyta.",
+                "A spermatogenesis a születés előtt kezdődik, a világos A típusú spermatogoniumból közvetlenül kialakuló sejt a primer spermatocyta.",
+                "A spermatogenesis a pubertás korban kezdődik, a világos A típusú spermatogoniumból közvetlenül kialakuló sejt a spermatida."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "10. Válassza ki az egymást követő sejtek egyetlen helyes sorrendjét a spermatogenesis során!",
+            "answers": [
+                "Sötét A típusú spermatogonium, világos A típusú spermatogonium, B típusú spermatogonium primer spermatocyta, secunder spermatocyta, spermatida",
+                "Sötét A típusú spermatogonium, világos A típusú spermatogonium, B típusú spermatogonium spermatida, primer spermatocyta, secunder spermatocyta",
+                "Spermatida, sötét A típusú spermatogonium, világos A típusú spermatogonium, B típusú spermatogonium, primer spermatocyta, secunder spermatocyta",
+                "Világos A típusú spermatogonium, primer spermatogonium, primer spermatocyta, secunder spermatogonium",
+                "Primer spermatocyta, secunder spermatocyta, világos A típusú spermatogonium, B típusú spermatogonium, spermatida"
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "11. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Spermiogenesisnek nevezzük azt a folyamatot, amelynek során a spermatidák spermiumokká alakulnak.",
+                "A spermiogenesis során alakul ki az acrosoma, amely enzimeket tartalmaz.",
+                "A spermiogenesis során a sejtmag kondenzálódik és a kialakuló spermium fejében foglal helyet.",
+                "Spermiogenesisnek nevezzük azt a folyamatot, amelynek során a secunder spermatocyta közvetlenül spermiummá alakul.",
+                "A spermiogenesis során a sejtmag kondenzálódik és a kialakuló spermium nyakában foglal helyet."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "12. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A spermiogenesis során alakul ki a spermium feje, nyaka, középdarabja és farka.",
+                "A spermiogenesis során nem történik sejtosztódás.",
+                "A spermiumok a női genitális csatornában jutva néhány napig életképesek maradhatnak.",
+                "A spermiogenesis során a spermatida osztódik, és ennek eredményeként két spermium alakul ki.",
+                "A spermiogenesis során mitotikus és meiotikus oszlások is történnek."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "13. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A primordialis őssejtek a genetikailag nőnemű gonádokba érkezve oogoniumokká differenciálódnak, majd ezek a sejtek mitozissal osztódnak.",
+                "A harmadik embrionális hónap végére a csoportokba rendeződött oogoniumokat egyrétegű laphám veszi körül, ami az ovariumot borító felszíni hámból származik.",
+                "Az oogoniumok primer oocytává differenciálódnak, amely sejtek még az embrionális élet során elkezdik az első meiotikus oszlást, és megállapodnak annak profázisában.",
+                "A primordialis őssejtek a genetikailag nőnemű gonádokba érkezve oogoniumokká differenciálódnak, majd ezek a sejtek meiosissal osztódnak.",
+                "Az oogoniumok primer oocytává differenciálódnak, amely sejtek a születés után azonnal elkezdik az első meiotikus oszlást."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "14. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Születéskor a primordialis tüsző egy primer oocytából és az azt körülvevő egyrétegű laphámból áll.",
+                "Az embrionális élet során nagyszámú oogonium és primer oocyta elpusztul, atretizálódik.",
+                "A hetedik embrionális hónap végére az oogoniumok többsége degenerálódik.",
+                "Az embrionális élet során nem változik a kialakult primer oocyták száma.",
+                "A születés utáni primordialis tüsző egy, a második meiotikus oszlás profázisában lévő primer oocytából és az azt körülvevő egyrétegű laphámból áll."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "15. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A petesejt első meiotikus oszlása az embrionális életkorban kezdődik",
+                "A petesejt első meiotikus oszlása közvetlenül az ovulatio előtt kezdődik",
+                "A petesejt első meiotikus oszlása a pubertáskor kezdődik",
+                "A petesejt első meiotikus oszlása az ovarialis ciklus közepén kezdődik",
+                "A petesejt első meiotikus oszlása a születéskor kezdődik."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "16. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A petesejt első meiotikus oszlása közvetlenül az ovulatio előtt fejeződik be",
+                "A petesejt első meiotikus oszlása az embrionális életkorban fejeződik be.",
+                "A petesejt első meiotikus oszlása a születéskor fejeződik be",
+                "A petesejt első meiotikus oszlása a pubertáskor fejeződik be",
+                "A petesejt első meiotikus oszlása közvetlenül az ovulatio után fejeződik be"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "17. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A petesejt közvetlenül a születés után az első meiotikus oszlás profázisában van",
+                "Az első sarki test az első meiotikus oszlás eredményeként jön létre",
+                "A secunder oocyta közvetlenül a születés után az első mitotikus oszlás profázisában van",
+                "A secundar oocyta közvetlenül a születés előtt az első mitotikus oszlás profázisában van",
+                "Az első sarki test jelen van a születéskor"
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "18. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A petesejt első meiotikus oszlásának eredménye a secunder oocyta és az első sarki test (polocyta)",
+                "A petesejt első meiotikus oszlásának eredménye a secunder oocyta és a második sarki test (polocyta)",
+                "A petesejt első meiotikus oszlásának eredménye két primer oocyta",
+                "A petesejt első meiotikus oszlásának eredménye két secunder oocyta",
+                "A petesejt első meiotikus oszlásakor nem alakul ki sarki test (polocyta)"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "19. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A petesejt második meiotikus oszlásának eredményeként sarki test is kialakul",
+                "Az oocyta második meiotikus oszlása a spermium belépése után fejeződik be",
+                "A petesejt érése során a második meiotikus oszlás az oocyta megtermékenyülése előtt fejeződik be",
+                "A petesejt érése során a második meiotikus oszlás az ovulatio után közvetlenül befejeződik",
+                "A petesejt érése során a második meiotikus oszlás eredményeként két secunder oocyta keletkezik"
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "20. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A női pronucleus a második meiotikus oszlás befejeződése után alakul ki",
+                "A definitív oocyta kromoszómái átrendeződve kialakítják a női pronucleust.",
+                "A női pronucleus a spermium belépése után alakul ki",
+                "A női pronucleus a spermium belépése előtt alakul ki",
+                "Az első sarki test alternatív elnevezése a női pronucleus."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "21. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "A primordiális csírasejtek az epiblastból származnak.",
+                "A születést követően a pubertásig a spermatogóniumok nem osztódnak.",
+                "A herében a testosteront a Leydig-féle sejtek termelik.",
+                "Sertoli-sejtek a pubertást követően jelennek meg a kanyarulatos herecsatornácskákban.",
+                "A születéskor oogóniumok vannak az ovariális folliculusokban."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "22. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "Az oocyta felszínét körbe vevő zona pellucidát az oocyta és a granulosa sejtek termelik.",
+                "A primer ovariális tüsző hámját egyrétegű köbhám adja.",
+                "A primordiális tüszőben a meiosis I. profázisában lévő primer oocyták találhatók.",
+                "A spermiumok fejét a mitokondriumokban gazdag nyak követi, majd a centriolumok találhatóak a farok kezdetén.",
+                "A spermiumok legfeljebb 72 óráig maradnak életképesek a női ivarcsatornában."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "23. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "A secundaer oocyta csak a megtermékenyítés után fejezi be a második meiotikus osztódást.",
+                "Az ovariális tüszőt az antrum megjelenését követően tercier tüszőnek nevezzük.",
+                "A tüszők érését egyre emelkedő oesztrogen termelés kíséri.",
+                "Az oestrogent a cumulus oophorus sejtjei termelik.",
+                "A tüszők érését egyre emelkedő progesteron termelés kíséri."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "24. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "A spermatidák alakja kerekded és haploid genommal rendelkeznek.",
+                "A spermatogóniumok kizárólag mitózissal osztódnak.",
+                "Az ovuláció során megtörténik a petesejt második meiotikus osztódása.",
+                "Az ovariumot és a testist összefoglaló néven gamétának nevezzük.",
+                "Nőkben a gametogenesis lezajlik a születés előtt."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "25. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "A megfelelő megtermékenyítő képességhez a spermiumok száma az ejakulátumban eléri a 40- 100 millió/ml.",
+                "A női ivarcsatornában a spermiumok több napig is életképesek.",
+                "A secundaer oocyta 72 órán keresztül marad megtermékenyíthető az ovulációt követően.",
+                "A Graaf-tüszőben a cumulus oophorus sejtjei termelik a progesteront.",
+                "Az ovulációt a hirtelen megemelkedő FSH-szint okozza."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "26. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "A spermiogenesis során metamorphosis történik.",
+                "Az acrosoma a spermium feji végén található és enzimekben gazdag cytoplasmát tartalmaz.",
+                "A spermiogenesis utolsó lépéseként az ivarsejtek elnyerik a motilitásukat a kanyarulatos csatornákban.",
+                "A kislány újszülöttek petefészkeiben primer ovariális folliculusok vannak.",
+                "FSH hatására a follicularis hámsejtek theca internává alakulnak."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "27. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A spermato- és spermiogenezis folyamatának hossza kb. 74 nap.",
+                "A secundaer tüszőben megtörténik az oogenesis első meiotikus osztódása.",
+                "A spermatogenesis során keletkező cytoplasma hidak segítségével a fejlődő sejtek kicserélhetik az Y kromoszómáikat.",
+                "Az első sarkitest haploid genommal rendelkezik.",
+                "Az oocyta érési inhibitort a theca interna sejtjei termelik."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "28. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A granulosa sejtek a follicularis hámsejtekből keletkeznek az oogenesis során.",
+                "A pubertás idejére kb. 4 millióra csökken a két petefészekben a primordiális tüszők száma.",
+                "A spermium flagellumában actin filamentumok biztosítják a motilitást.",
+                "Férfiakban az LH serkenti a Sertoli-sejteken keresztül a spermatogenesist.",
+                "A zona pellucida egy módosult membrana basalis az oocyta körül."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "29. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A zona pellucida hialuronsavban gazdag.",
+                "A corona radiata sejtjei a theca folliculiból származnak.",
+                "A sárgatest főleg oestrogent termel.",
+                "A primer spermatocyták már a születést megelőzően megjelennek a kanyarulatos csatornákban.",
+                "A spermiumok a kapacitálódás során nyerik el a mozgásképességüket."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "30. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A corona radiatat a cumulus oophorus granulosa sejtjei alakítják ki.",
+                "A corpus luteum az ovulációt követően alakul ki a tüsző theca interna és theca externa sejtjeiből.",
+                "A testosteront a Sertoli-féle dajkasejtek termelik a herében.",
+                "A primer oocyta az ovulációt követően kb. 24 óráig marad megtermékenyíthető.",
+                "A corpus luteum elsődleges terméke a hCG."
             ],
             "rightAnswers": [1]
         },
@@ -33,6 +341,1275 @@
             ],
             "rightAnswers": [1],
             "image": "31_abra.jpg"
+        },
+        {
+            "question": "32. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a piros nyíllal jelölt képlet a cumulus oophorus.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a piros nyíllal jelölt képlet a cumulus oophorus, amelyben az első meiotikus oszlás profázisában lévő primer oocyta található.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a piros nyíllal jelölt képlet a cumulus oophorus, amelyben az első mitotikus oszlás profázisában lévő primer oocyta található.",
+                "A kép egy secunder tüszőt ábrázol, benne a piros nyíllal jelölt képlet a cumulus oophorus, amely bedomborodik a folliculus üregébe."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "32_abra.jpg"
+        },
+        {
+            "question": "33. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a piros színű kör alakú képlet a zona pellucida.",
+                "A zona pellucida ovulatiókor távozik a Graaf tüszőből.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, benne a piros színű kör alakú képlet a petesejt membránja.",
+                "A zona pellucida ovulatiókor nem távozik a Graaf tüszőből.",
+                "A zona pellucida laphám sejtekből épül fel."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "33_abra.jpg"
+        },
+        {
+            "question": "34. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, a piros nyíllal jelölt képlet a theca interna.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, a piros nyíllal jelölt képlet a theca interna, amely a membrana granulosa és a theca externa között helyezkedik el.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, a piros nyíllal jelölt képlet a theca externa.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, a piros nyíllal jelölt képlet a membrana granulosa, amely a theca internával szomszédos.",
+                "A kép egy tertier (Graaf ) tüszőt ábrázol, a piros nyíllal jelölt képlet a corona radiata."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "34_abra.jpg"
+        },
+        {
+            "question": "35. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A kép egy tertier (Graaf ) tüszőt ábrázol,nyíl a cavum/antrum folliculira mutat, amely a liquor folliculit tartalmazza.",
+                "A nyíl a tertier (Graaf ) tüsző üregére mutat, amelyet a membrana granulosa sejtek határolnak.",
+                "A nyíl a tertier (Graaf ) tüsző üregére mutat, amelyben atreriás vér található.",
+                "A nyíl a tertier (Graaf ) tüsző üregére mutat, amelyet a theca interna sejtjei határolnak.",
+                "A nyíl a tertier (Graaf ) tüsző üregére mutat, amely üreg már a primer tüszőben megjelenik."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "35_abra.jpg"
+        },
+        {
+            "question": "36. Válassza ki a három helyes megállapítást a piros vonalszakasszal jelölt képlettel kapcsolatban!",
+            "answers": [
+                "Ez a spemium/spermatozoon feje, amely a sejtmagot tartalmazza.",
+                "Ez a spemium/spermatozoon feje, benne található a sejtmag és az acrosoma.",
+                "Ez a spemium/spermatozoon feje, a benne található acrosoma enzymeket tartalmaz.",
+                "Ez a spemium/spermatozoon feje, amely mitochondriumokban gazdag.",
+                "Ez a spemium/spermatozoon feje, amely nem tartalmaz proteolytikus enzymeket."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "36_abra.jpg"
+        },
+        {
+            "question": "37. Válassza ki az egyetlen helyes megállapítást a piros vonalszakasszal jelölt képlettel kapcsolatban!",
+            "answers": [
+                "Ez a spemium/spermatozoon nyaka, amely a fej és a középdarab között helyezkedik el.",
+                "Ez a spemium/spermatozoon nyaka, amely gazdag mitochondriumokban.",
+                "Ez a spemium/spermatozoon nyaka, amely gazdag proteolytikus enzymekben.",
+                "Ez a spermatida nyaka, amely a fej és a középdarab között helyezkedik el.",
+                "Ez a spermatida nyaka, amely a fej és a farok között helyezkedik el."
+            ],
+            "rightAnswers": [1],
+            "image": "37_abra.jpg"
+        },
+        {
+            "question": "38. Válassza ki az egyetlen helyes megállapítást a piros vonalszakasszal jelölt képlettel kapcsolatban!",
+            "answers": [
+                "Ez a spemium/spermatozoon középdarabja, amely a nyak és a farok között helyezkedik el.",
+                "Ez a spemium/spermatozoon középdarabja, amely nem tartalmaz mitochondriumokat.",
+                "Ez a spemium/spermatozoon középdarabja, amely a megtermékenyítéshez szükséges proteolytikus enzymeket tartalmazza.",
+                "Ez a spermatida középdarabja, amely sok mitochondriumot tartalmaz.",
+                "Ez a spermatida középdarabja, amely fej és farok között helyezkedik el."
+            ],
+            "rightAnswers": [1],
+            "image": "38_abra.jpg"
+        },
+        {
+            "question": "39. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Csak a kapacitált spermium képes átjutni a corona radiátán.",
+                "Az acrosoma reakció elősegíti a spermiumnak a zona pellucidán történő átjutását",
+                "Az acrosoma reakció során tripszinszerű anyagok szabadulnak fel",
+                "Az acrosoma reakció a herében zajlik le",
+                "Az acrosoma reakció az uterus üregében zajlik le"
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "40. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Az acrosoma reakció során akrozin és tripszinszerű anyagok szabadulnak fel a spermiumból",
+                "Az acrosoma reakció során akrozin és tripszinszerű anyagok szabadulnak fel a zona pellucidából",
+                "Az acrosoma reakció során a petesejtből tripszinszerű anyagok szabadulnak fel",
+                "Az acrosoma reakció során a petesejtből akrozin szabadul fel",
+                "Az acrosoma reakció során a petesejtből corticalis granulumok szabadulnak fel"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "41. Az alábbiak közül melyik folyamat akadályozza meg a polyspermia kialakulását? Egy jó válasz.",
+            "answers": [
+                "A corticalis reakció következtében kiszabaduló lysosomalis enzimek hatására az oocyta membrán impermeabilis lesz a további spermiumok számára.",
+                "Az oocytába történő behatolás után a spermium proteolytikus enzimeket termel",
+                "A spermium behatol az oocytába és ennek hatására a zona pellucida proteolytikus enzimeket termel",
+                "A zónareakció következtében a petesejtből acrozin szabadul fel",
+                "A zónareakció következtében a petesejtből és a spermiumból acrozin szabadul fel"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "42. Az alábbiak közül melyik négy megállapítás helyes a syncytiotrophoblastra?",
+            "answers": [
+                "Proteolyticus enzimeket termel, melyek elősegítik a beágyzódást",
+                "A benne található lacunák anyai vért tartalmaznak",
+                "Részt vesz a placenta kialakulásában",
+                "A késői blastocysta külső rétegét alkotja",
+                "A késői blastocysta belső rétegét alkotja"
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "43. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A morula külső rétege a trophoblast, amelyből a cytotrophoblast és syncytiotrophoblast alakul ki.",
+                "A syncytiotrophoblast a blastocysta falának külső, multinuclearis zónája.",
+                "A cytotrophoblast réteg a blastocysta falának belső, mononuclearis sejtrétege.",
+                "A syncytiotrophoblast a blastocysta falának belső, multinuclearis zónája.",
+                "A cytotrophoblast réteg a blastocysta falának külső, mononuclearis sejtrétege."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "44. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A morula kialakulása során egy külső és egy belső sejtcsoport alakul ki, a belső sejtcsoportot embryoblast sejtek alkotják.",
+                "A morula kialakulása során egy külső és egy belső sejtcsoport alakul ki, a külső sejtcsoportot trophoblast sejtek alkotják.",
+                "A kialakuló blastocystát körülveszi az extraembryonalis mesoderma.",
+                "A blastocysta ürege a blastocoel, amelyben magzatvíz található.",
+                "A blastocysta ürege a blastocoel, amelyben a fejlődés későbbi fázisában magzati vér található."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "45. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Barázdálódás során a megtermékenyített petesejtből mitozisokkal morula majd blastocysta alakul ki",
+                "Barázdálódás során a megtermékenyített petesejtből meiotikus oszlásokkal morula majd blastocysta alakul ki",
+                "Barázdálódás során a secunder oocytából mitozisokkal morula majd blastocysta alakul ki",
+                "Barázdálódás során a megtermékenyített petesejtből mitozisokkal két sarki test alakul ki",
+                "Barázdálódás során a secunder oocytából definitív oocyta és egy sarki test alakul ki"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "46. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "Az extraembrionális celoma az extraembrionális somato- és a splanchnoplaura között található",
+                "Az extraembrionális coeloma megtalálható a korai extraembrionális mesodermában.",
+                "A chorionüreg az extraembrionális mesodermában alakul ki",
+                "A chorionüreg a primitív szikzacskóhoz és az amnionüreghez képest külsőbb elhelyezkedésű",
+                "A primitív szikzacskót az epiblast sejtek és a Hauser membrán (exocoeloma membran) határolja."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "47. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A gastrulatio során alakul ki a három csíralemez.",
+                "A gastrulatio a primitív csík megjelenésével kezdődik.",
+                "A gastrulatio az embrionális élet harmadik hetében történik.",
+                "A gastrulatio a bélcső kialakulását jelenti.",
+                "A gastrulatio kezdetét a primitív gödör megjelenése jelzi."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "48. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A gastrulatio során alakul ki az ectoderma, endoderma és a mesoderma.",
+                "A gastrulatio során, amely az embrionális élet harmadik hetében történik, alakul ki a három csíralemez.",
+                "A gastrulatio a primitív csík megjelenésével kezdődik, amely az epiblast felszínén jelenik meg.",
+                "A gastrulatio során alakul ki az epiblast és a hypoblast.",
+                "A gastrulatio során alakul ki az epiblast és az amnion."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "49. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A primitív csík a kétrétegű embryopajzs caudalis vége közelében jelenik meg.",
+                "Mindhárom csiralemez az epiblastból származik.",
+                "A primitív csík a chorda dorsalis kialakulása előtt jelenik meg.",
+                "A primitív csík a fejlődő embryo mediolateralis tengelyének kialakulásában játszik szerepet.",
+                "A primitív csíkból közvetlenül alakul ki az idegrendszer."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "50. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A mesenchyma laza szerkezetű embrionális szövet függetlenül attól, hogy melyik csíralemezből származik",
+                "A mesoderma és a mesenchyma ugyanazon képlet kétféle elnevezése.",
+                "A mesoderma sejtjei hypoblast sejtekből származnak.",
+                "A mesoderma sejtjei a hypoblastból és az epiblastból is származhatnak.",
+                "A mesenchyma csak mesodermalis eredetű sejtekből alakulhat ki."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "51. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A primitív csomó a primitív csíknak a primitív gödröt körülvevő cranialis vége.",
+                "A primitív csíkból leváló epiblast sejtekből alakul ki az endoderma és a mesoderma is.",
+                "A gastrulatio során kialakuló mind a három csiralemez az epiblast származéka.",
+                "A gastrulatio során az endoderma a hypoblast sejtek átalakulásával jön létre.",
+                "A gastrulatio során a mesoderma a chorda dorsalisból alakul ki."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "52. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A primitív csík az epiblast felszínén jelenik meg.",
+                "A gastrulatio során az epiblastból leváló sejtek a primitív csík mentén és primitívcsomón keresztül az epiblast és a hypoblast rétegek közé vándorolnak.",
+                "A gastrulatio során az epiblast és a hypoblast réteg közé bevándorolt epiblast sejtek lateralis és cranialis irányba vándorolnak és kapcsolatot létesítenek az extraembrionális mesodermával.",
+                "A gastrulatio során az epiblast és a hypoblast réteg közé bevándorolt epiblast sejtek csak lateralis irányba vándorolnak.",
+                "A primitív csík az ectoderma felszínén jelenik meg."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "53. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A chorda dorsalis kialakulása során annak először a cranialis vége fejlődik ki.",
+                "A chorda dorsalis részt vesz az axialis skeleton fejlődésében.",
+                "A canalis neurenterikus, ami összeköti az amnion- és a szikhólyag üregét, átmeneti képlet a fejlődés során.",
+                "A canalis neurenterikus, ami összeköti az amnion- és a velőcső üregét, részt vesz az emésztőrendszer fejlődésében.",
+                "A canalis neurenterikusból fejlődik ki az idegrendszer."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "54. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A membrana buccopharyngea területén nincs jelen a mesoderma, csak ez ecto- és az endoderma.",
+                "A membrana buccopharyngea átmenetileg elválasztja az elemi szájüreget az előbéltől.",
+                "A membrana buccopharyngea átszakadása után az amnionüreg a szájüregen keresztül közlekedik az előbéllel.",
+                "A membrana buccopharyngea átszakadása után a szikhólyag és az amnionüreg közlekedik egymással.",
+                "A membrana buccopharyngea az embryo caudalis végén helyezkedik el."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "55. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "A membrana cloacae, amely átmenetileg lezárja az utóbelet a külvilág felé, nem tartalmaz mesodermát.",
+                "A membrana cloacae mellett, annak kialakulásával egyidejűleg kialakul az allantois, ami a kötőnyélbe terjed.",
+                "Az allantois a szikzacskó hátsó falán megjelenő diverticulum, ami emberben később elzáródik.",
+                "Az embryóban a csiralemezek differenciálódása először a caudalis régióban kezdődik.",
+                "Az allantois a velőcső hátsó falán megjelenő diverticulum, ami emberben később elzáródik."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "56. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábrán a kék színű képlet az epiblast, a nyíllal jelölt képlet pedig a membrana buccopharyngea/oropharyngea.",
+                "Az ábrán az epiblast dorsalis felszíne látható az amnionüreg megnyitása után.",
+                "A nyíllal jelölt képlet a membrana buccopharyngea/oropharyngea, amely az embryopajzs cranialis végén található.",
+                "A nyíllal jelölt képlet a membrana cloacae, amely az embryopajzs cranialis végén található.",
+                "Az ábrán az epiblast dorsalis felszíne látható, a szikhólyag megnyitása után."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "56_abra.jpg"
+        },
+        {
+            "question": "57. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábrán a kék színű képlet az epiblast, a fekete nyíllal jelölt képlet pedig a membrana buccopharyngea/oropharyngea.",
+                "A piros színű nyíllal jelölt képlet a primitív csík, a fekete nyíllal jelölt képlet pedig a membrana buccopharyngea/oropharyngea.",
+                "Az ábrán az epiblast dorsalis felszíne látható az amnionüreg megnyitása után.",
+                "A piros nyíllal jelölt képlet a membrana cloacae, a fekete színnel jelölt képlet pedig a membrana buccopharyngea/oropharyngea.",
+                "Az ábrán az epiblast dorsalis felszíne látható, ahol a piros nyíllal jelölt képlet a membrana cloacae."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "57_abra.jpg"
+        },
+        {
+            "question": "58. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A fekete nyíllal jelölt képlet a primitív csík, a piros nyíl az amnion vágott szélét mutatja.",
+                "Az ábrán az epiblast dorsalis felszíne látható, a piros nyíl az amnion vágott szélét mutatja.",
+                "Az ábrán az epiblast dorsalis felszíne látható, fekete nyíllal jelölt képlet a primitív csomó.",
+                "Az ábrán a hypoblast dorsalis felszíne látható, ahol a fekete nyíllal jelölt képlet a primitív csík.",
+                "A fekete nyíllal jelölt képlet a primitív csík, a piros nyíl a szikhólyag vágott szélét mutatja."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "58_abra.jpg"
+        },
+        {
+            "question": "59. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az embryo keresztmetszeti képén a nyíl környezetében lévő sejtek alkotják a sclerotomot.",
+                "Az embryo keresztmetszeti képén a nyíl környezetében lévő sejtekből fejlődnek a csigolyák.",
+                "Az embryo keresztmetszeti képén a nyíl környezetében lévő sejtek alkotják a myotomot.",
+                "Az embryo sagittalis metszeti képén a nyíl környezetében lévő sejtek alkotják a sclerotomot.",
+                "Az embryo sagittalis metszeti képén a nyíl környezetében lévő sejtek összessége az intraembryonalis mesenchyma."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "59_abra.jpg"
+        },
+        {
+            "question": "60. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az embryo keresztmetszeti képén a nyíl a dermatomra mutat.",
+                "Az embryo keresztmetszeti képén a nyíl a dermatomra mutat, amiből az embryo dorsalis oldalán a bőr kötőszövetes rétege alakul ki.",
+                "Az embryo keresztmetszeti képén a nyíl a somitára mutat.",
+                "Az embryo keresztmetszeti képén a nyíl a sclerotomra mutat.",
+                "Az embryo hosszmetszeti képén a nyíl a nyíl a sclerotomra mutat."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "60_abra.jpg"
+        },
+        {
+            "question": "61. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az embryo keresztmetszeti képén a nyíl a myotomra mutat.",
+                "Az embryo keresztmetszeti képén a nyíl a myotomra mutat, amiből később izmok alakulnak ki.",
+                "Az embryo keresztmetszeti képén a nyíl a sclerotomra mutat.",
+                "Az embryo keresztmetszeti képén a nyíl a somitára mutat.",
+                "Az embryo hosszmetszeti képén a nyíl a nyíl a sclerotomra mutat."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "61_abra.jpg"
+        },
+        {
+            "question": "62. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A neurulatio az embryonalis fejlődés 28. napjára fejeződik be.",
+                "A neurulatio az embryonalis fejlődés 10. napjára fejeződik be.",
+                "A neurulatio az embryonalis fejlődés 38. napjára fejeződik be.",
+                "A neurulatio az embryonalis fejlődés 2. hónapjának végére fejeződik be.",
+                "A neurulatio az embryonalis fejlődés 3. hónapjának végére fejeződik be."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "63. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Az embrió feji végén a felszíni ectoderma megvastagodott területeit placodnak nevezzük.",
+                "A placodból nem alakulnak ki maradandó képletek",
+                "A placodból kialakuló képletek mindig a test felszínén maradnak",
+                "A placodból alakul ki a központi idegrendszer",
+                "Az embrió háti oldalán a felszíni ectoderma megvastagodását placodnak nevezzük"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "64. Mi a szerepe a chorda dorsalisnak az idegrendszer fejlődésében? Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Induktív hatására kezdődik a velőlemez kialakulása",
+                "Nincs semmilyen szerepe, csak az axialis skeleton fejlődéséhez járul hozzá",
+                "Belőle alakul ki a gerincvelő",
+                "Induktív hatására kezdődik a velőcső kialakulása",
+                "Induktív hatására befejeződik a velőlemez kialakulása"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "65. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A velőcsőből alakul ki a központi idegrendszer",
+                "A crista neuralisból alakul ki a környéki idegrendszer egy része",
+                "A neurulatio folyamán alakulnak ki az agykamrák",
+                "A neurulatio folyamán alakulnak ki a perifériás idegek",
+                "A neurulatio folyamán alakul ki a velőcső és a chorda dorsalis"
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "66. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A velőcső az ectoderma származéka",
+                "A velőcső végleges kialakulása a neuroporus anterior és posterior záródásával fejeződik be",
+                "A velőcső kialakulása a velőredők fúziójával kezdődik",
+                "A crista neuralis sejtjei a velőcső falából vándorolnak ki",
+                "A velőcső ürege a neuroporus anterioron keresztül a szikhólyag üregével folytonos"
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "67. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A crista neuralis sejtjeiből nemcsak idegrendszeri képletek alakulnak ki",
+                "A crista neuralisból fejlődnek a ganglionok",
+                "A crista neuralist kialakító sejtek a velőredők lateralis széléből vándorolnak ki",
+                "A crista neuralis sejtjei nem vándorolnak a fej területére",
+                "A crista neuralis részt vesz a velőcső kialakulásában."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "68. Milyen képlet fejlődik a crista neuralisból? Válassza ki a három helyes állítást!",
+            "answers": [
+                "Egyes koponyacsontok",
+                "Pigmentsejtek",
+                "Sympathicus ganglionok",
+                "Csigolyák",
+                "A hypophysis"
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "69. Milyen képletek származnak az ectodermából? Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "Valamennyi felsorolt képlet",
+                "A bőr hámja és származékai",
+                "A központi idegrendszer neuronjai",
+                "A fogzománc",
+                "Az orr érzékhámja (szaglóhám)"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "70. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A mesoderma differenciálódásának első lépéseként a chorda dorsalis két oldalán kialakul paraxialis, az intermedier mesoderma és az oldallemez.",
+                "Az intermedier mesoderma a paraxialis mesodermát és az oldallemezt köti össze.",
+                "A mesoderma kezdetben egységes oldallemez részében kialakuló üreg az intraembrionális coeloma.",
+                "A kétoldali intraembrionális coeloma közlekedik egymással.",
+                "Az intraembrionális coeloma az amnionüregbe nyílik."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "71. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "Az intraembrionális coeloma oldal felé folytatódik az extraembrionális coelomába.",
+                "A mesoderma kezdetben egységes oldallemeze a benne kialakuló üreg következtében somatopleura és a splanchnopleura lemezzé alakul.",
+                "A somatopleura másik elnevezése a somaticus mesoderma.",
+                "A splanchopleura másik elnevezése splanchnicus vagy visceralis mesoderma.",
+                "Az intraembrionális coeloma a mesoderma paraxialis részében alakul ki."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "72. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "A somatopleura az amniont borító extraembrionális mesodermában folytatódik.",
+                "A splanchopleura a szikzacskót borító extraembrionális mesodermában folytatódik.",
+                "A paraxial mesoderma szementálódásának eredményként kialakuló képleteket a feji régióban somitomereknek, az occipitalis régióban és attól caudalisan somitáknak nevezzük.",
+                "Az intraembrionális coeloma oldal felé folytatódik az extraembrionális coelomában.",
+                "Az intraembrionális coeloma a mesoderma paraxialis részében alakul ki."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "73. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "A mesoderma kezdetben egységes oldallemeze a benne kialakuló üreg következtében somatopleura és a splanchnopleura lemezekre tagolódik.",
+                "Az első somitapár a későbbi occipitalis területnek megfelelően jelenik meg, majd caudalis irányba haladva összesen 38-41 somita alakul ki.",
+                "A somiták belsejében a differenciálódás során üreg alakul ki.",
+                "A somiták belsejében kialakuló üreg falának ventromedialis részéből alakul ki a sclerotom.",
+                "A somiták belsejében kialakuló üreg falának ventromedialis részét myotomnak nevezzük."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "74. Válassza ki a három helyes állítást!",
+            "answers": [
+                "A somiták belsejében kialakuló üreg falának ventromedialis részéből kivándorló sejtek összessége a sclerotom.",
+                "A sclerotomból csigolyák és bordák fejlődnek.",
+                "A somiták belsejében kialakuló üreg falának dorsomedialis és ventrolateralis végéből alakul ki a myotom.",
+                "A somiták belsejében kialakuló üreg falának ventromedialis részéből kivándorló sejtek összessége a myotom és a sclerotom.",
+                "A somiták belsejében kialakuló üreg falának dorsomedialis és ventrolateralis végéből alakul ki a dermatom, myotome és a sclerotom."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "75. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A mesoderma oldallemez részéből kialakuló somaticus vagy parietalis mesodermalemez az amnionüreget borító exraembrionális somaticus mesodermával folytonos.",
+                "A mesoderma oldallemez részéből kialakuló somaticus vagy parietalis mesodermalemez a szikzacskót borító exraembrionális splanchnicus mesodermával folytonos.",
+                "Az intermedier mesoderma az intra- és extraembrionális mesodermát köti össze",
+                "A paraxialis mesoderma az intra- és extraembrionális mesodermát köti össze",
+                "A mesoderma közvetlen származékai a sclerotom, az intermedier mesoderma és az oldallemez."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "76. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A mesoderma oldallemez részéből kialakuló splanchnicus vagy visceralis mesodermalemez a szikzacskót borító exraembrionális splanchnicus mesodermával folytonos.",
+                "A mesoderma oldallemez részéből kialakuló splanchnicus vagy visceralis mesodermalemez az amniont borító mesodermával folytonos.",
+                "Az intermedier mesodermából nem alakulnak ki szervek",
+                "A paraxialis mesodermából alakulnak ki a nephrotomok",
+                "A mesoderma közvetlen származékai a végtagcsontok, az intermedier mesoderma és az oldallemez."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "77. Válassza ki a négy helyes megállapítást!",
+            "answers": [
+                "A splanchnicus vagy visceralis mesodermalemez a szikzacskót borító extraembrionális mesodermával folytonos.",
+                "A somaticus vagy parietalis mesodermalemez az amniont borító extraembrionális mesodermával folytonos.",
+                "Az intermedier mesodermából alakulnak ki a gonadok",
+                "A paraxialis mesodermából alakul ki a sclerotom",
+                "A tagolatlan intraembrionális mesoderma közvetlen származéka a myotom."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "78. Válassza ki a két helyes megállapítást a piros színű nyíllal jelölt képlettel kapcsolatban!",
+            "answers": [
+                "Ez a képlet a velőredő, ami a velőlemezből alakul ki.",
+                "Ez a képlet a velőredő, ami az ellenoldalival összenőve a velőcső kialakításában vesz részt.",
+                "Ez a képlet a velőredő, amelyből a perifériás idegrendszer alakul ki.",
+                "Ez a képlet a velőredő, amiből a vörös csontvelő alakul ki.",
+                "Ez a képlet a velőredő, amiből nem alakul ki maradandó képlet."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "78_abra.jpg"
+        },
+        {
+            "question": "79. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A piros színű nyíl a crista neuralis sejteket mutatja, amelyek a velőredők lateralis szegélyén lévő sejtekből alakulnak ki.",
+                "A piros színű nyíl a crista neuralis sejteket mutatja, amelyekből később, a jelenlegi helyükről kivándorolva, koponyacsontok is fejlődnek.",
+                "A piros színű nyíl a crista neuralis sejteket mutatja, amelyek a chorda dorsalisból vándoroltak ide.",
+                "A piros színű nyíllal jelölt képlet sejtjei a somitákat alakítják ki.",
+                "A piros színű nyíllal jelölt képlet a crista neuralis sejteket mutatja, amely a hypoblastokból alakultak ki."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "79_abra.jpg"
+        },
+        {
+            "question": "80. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A nyilak annak a sejtcsoportnak a vándorlási irányát mutatják, amelyek a crista neuralist alakítják ki.",
+                "A nyilak annak a sejtcsoportnak vándorlási irányát mutatják, amelyek a chorda dorsalist alakítják ki.",
+                "A nyilak a bélcső falából kivándorló azon sejtek útját mutatják, amelyek a crista neuralist hozzák létre.",
+                "A nyilak egy olyan sejtcsoport vándorlási irányát mutatják, amelyekből a sclerotom alakul ki.",
+                "A nyilak a bélcső falából kivándorló azon sejtek útját mutatják, amelyekből ganglionok fejlődnek."
+            ],
+            "rightAnswers": [1],
+            "image": "80_abra.jpg"
+        },
+        {
+            "question": "81. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Az embriópajzs embrióhengerré alakulása során a határredők ventralis irányba mozdulnak el.",
+                "A velőcső hosszirányú növekedése miatt a feji és a farokredők ventralis irányba mozdulnak.",
+                "Az agyhólyagok növekedésének következtében az embryópajzs bedomborodik az amnionüregbe.",
+                "Az agyhólyagok növekedésének következtében az embryópajzs bedomborodik a szikhólyagba.",
+                "A határredők záródása teljesen lezárja a ventralis testfalat."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "82. Válassza ki a két helyes állítást!",
+            "answers": [
+                "Az embryopajzs embryohengerré alakulása során a határredők záródása teljesen lezárja a ventralis testfalat, kivéve azt a helyet, ahol a kötőnyél és a ductus vitellinus található.",
+                "Az allantois kezdetben teljes egészében a kötőnyélben található, majd proximalis része az embrió testébe kerül.",
+                "A embryopajzs embryohengerré alakulása során határredők záródása teljesen lezárja a ventralis testfalat, kivéve azt a helyet, ahol a kötőnyél és a velőcső található.",
+                "Az allantois kezdetben teljes egészében a kötőnyélben található, majd distalis része az embrió testébe kerül.",
+                "Az allantois és a ductus vitellinus ürege az utóbéllel van kapcsolatban."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "83. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A primitív bélcső hámja endodermalis eredetű.",
+                "Az allantois a membrana oropharyngea (buccopharyngea) közelében jelenik meg.",
+                "Az allantois a szikhólyag elülső falán jelenik meg és nem terjed be a kötőnyélbe.",
+                "Az allantois a szikhólyag elülső falán jelenik meg és beterjed a kötőnyélbe.",
+                "A primitív bélcső hámja ectodermalis eredetű."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "84. Válassza ki az egyetlen helyes állítást a ductus vitellinusra vonatkozóan!",
+            "answers": [
+                "A középbelet köti össze a szikhólyaggal",
+                "A középbelet köti össze az allantoissal.",
+                "Környezetében nincsenek erek.",
+                "Az utóbelet köti össze a szikhólyaggal.",
+                "Nem található meg a primitív köldökzsinórban."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "85. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A légzőrendszer hámja az endodermából származik.",
+                "A primitív bélcső hámja ectodermalis eredetű, az endoderma eredetű sejtek csak később vándorolnak be a bélcső falába",
+                "A máj parenchymája a mesodermából származik.",
+                "A máj parenchymája az ectodermából származik.",
+                "A húgyhólyag hámja a mesodermából származik."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "86. Válassza ki a két helyes állítást!",
+            "answers": [
+                "Az embriópajzs embrióhengerré alakulása során alakul ki a bélcső.",
+                "Az embriópajzs embrióhengerré alakulása során kialakuló bélcső előbélre, középbélre és utóbélre tagolódik.",
+                "Az utóbél nem része az embriópajzs embrióhengerré alakulása során kialakuló bélcsőnek, ez egy későbbi időszakban alakul ki.",
+                "Az embriópajzs embrióhengerré alakulása során a mesoderma csíralemezből alakul ki a bélcső hámja.",
+                "Az embriópajzs embrióhengerré alakulása során az endoderma és az ectoderma csíralemezből alakul ki a bélcső hámja."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "87. Válassza ki a két helyes állítást!",
+            "answers": [
+                "Stomodeumnak nevezzük az ectodermalis eredetű primitív szájüreget.",
+                "Az ectodermalis eredetű primitív szájüreget az endodermalis eredetű garattól a membrana oropharyngea (buccopharyngea) választja el.",
+                "Stomodeumnak nevezzük az endodermalis eredetű primitív szájüreget.",
+                "Az endodermalis eredetű primitív szájüreget az ugyancsak endodermalis eredetű garattól a membrana oropharyngea (buccopharyngea) választja el.",
+                "Az ectodermalis eredetű primitív szájüreget az ugyancsak ectodermalis eredetű garattól a membrana oropharyngea (buccopharyngea) választja el."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "88. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Proctodeumnak nevezzük a canalis analis (a végbél utolsó szakasza) ectodermalis eredetű alsó részét.",
+                "A membrana cloacae átszakadásával jön létre a végbélnyílás.",
+                "A canalis analis felső és alsó részét (proctodeum) a membrana cloacae választja el egymástól.",
+                "Proctodeumnak nevezzük a canalis analis (a végbél utolsó szakasza) endodermalis eredetű alsó részét.",
+                "A membrana cloacae egy mesodermalis eredetű képlet."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "89. Válassza ki a két helyes állítást!",
+            "answers": [
+                "Az utóbelet a külvilág felé a membrana cloacae zárja le.",
+                "A membrana oropharyngea (buccopharyngea) korábban szakad át, mint a membrana cloacae.",
+                "A membrana cloacaeban mindhárom csíralemez megtalálható.",
+                "A membrana oropharyngea (buccopharyngea) később szakad át, mint a membrana cloacae.",
+                "A membrana oropharyngea (buccopharyngea) és a membrana cloacae azonos időben szakadnak át."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "90. Válassza ki az egyetlen t helyes állítást!",
+            "answers": [
+                "A membrana cloacae már az embryiópajzsban is megtalálható.",
+                "A membrana cloacae csak az embryóhenger kialakulása után jelenik meg.",
+                "A membrana cloacae már az embryiópajzsban is megtalálható, de a membrana oropharyngea (buccopharyngea) még nem.",
+                "A membrana oropharyngea (buccopharyngea) már az embryiópajzsban is megtalálható, de a membrana cloacae még nem.",
+                "A membrana cloacae csak mesodermát tartalmaz."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "91. Válassza ki az egyetlen helyes állítást!",
+            "answers": [
+                "A membrana cloacae már az embryiópajzsban is megtalálható.",
+                "A membrana oropharyngea (buccopharyngea) csak az embryóhenger kialakulása után jelenik meg.",
+                "A membrana cloacae a proctodeum alatt található.",
+                "A membrana oropharyngea (buccopharyngea) a primitív szájüreg bejáratánál található.",
+                "A membrana cloacae nem tartalmaz ectodermát."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "92. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a fehér nyíl a fejredőt mutatja.",
+                "Az ábra egy embryo sagittalis metszete, a fekete nyíl a farki redőt mutatja.",
+                "Az ábra egy embryo sagittalis metszete, a fehér és a fekete nyilak az amnion üregben láthatók.",
+                "Az ábra egy embryo sagittalis metszete, a fehér és a fekete nyilak a két lateralis határredőt mutatják.",
+                "Az ábra egy embryo sagittalis metszete, a fehér és a fekete nyilak az extraembryonalis mesodermában láthatók."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "92_abra.jpg"
+        },
+        {
+            "question": "93. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a zöld nyíl a az amnionüreget mutatja.",
+                "Az ábra egy embryo sagittalis metszete, a zöld nyíllal jelzett üregben amnionfolyadék található.",
+                "Az ábra egy embryo keresztmetszete, a zöld nyíllal jelzett üregben amnionfolyadék található.",
+                "Az ábra egy embryo sagittalis metszete, a zöld nyíl a szikhólyagot mutatja.",
+                "Az ábra egy embryo keresztmetszete, a zöld nyíl a szikhólyagot mutatja."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "93_abra.jpg"
+        },
+        {
+            "question": "94. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a zöld nyíl a szikhólyagot mutatja.",
+                "A zöld nyíllal jelölt üreget a fejlődés későbbi szakaszában a ductus vitellinus köti össze a középbéllel.",
+                "A zöld nyíllal jelölt üregből nem alakul ki maradandó képlet.",
+                "A zöld nyíllal jelölt üregből alakul ki az előbél.",
+                "A ductus vitellinusból alakul ki a vékonybél."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "94_abra.jpg"
+        },
+        {
+            "question": "95. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a zöld egyenes nyíllal jelölt sárga színű képlet az allantoisra mutat.",
+                "Az allantois megtalálható a primitív köldökzsinórban.",
+                "Az allantois ürege a fejlődés későbbi szakaszában elzáródik.",
+                "Az ábra egy embryo sagittalis metszete, a zöld egyenes nyíllal jelölt sárga színű képlet a ductus vitellinus.",
+                "Az ábra egy embryo keresztmetszete, a zöld egyenes nyíllal jelölt sárga színű képlet az allantois."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "95_abra.jpg"
+        },
+        {
+            "question": "96. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a kék színű képlet az ectoderma.",
+                "A kék színnel jelölt képletből fejlődik az idegrendszer.",
+                "A kék színnel jelölt képletből fejlődik a bőr hámja.",
+                "A kék színű képlet feletti üreg a szikhólyag.",
+                "Az ábra egy embryo keresztmetszete, a kék színű képlet az ectoderma."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "96_abra.jpg"
+        },
+        {
+            "question": "97. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az ábra egy embryo sagittalis metszete, a sárga színű egyenes nyíllal jelölt, sárga színű képlet az endoderma.",
+                "Az ábra egy embryo sagittalis metszete, a sárga színű egyenes nyíllal jelölt, sárga színű képlet az endoderma, amelyből a primer bélcső alakul ki.",
+                "A sárga színű egyenes nyíllal jelölt, sárga színű képlet sejtjei az epiblastból származnak.",
+                "A kék színű képlet feletti üreg a szikhólyag.",
+                "A sárga színű egyenes nyíllal jelölt, sárga színű képlet sejtjei a chorda dorsalisból származnak."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "97_abra.jpg"
+        },
+        {
+            "question": "98. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az amnion és a chorion magzatburkok.",
+                "Az amnion és a chorion magzati eredetű.",
+                "Az amnion és a chorion anyai szövetekből alakul ki.",
+                "Az amnion és a chorion is közvetlenül érintkezik a magzatvízzel.",
+                "A magzatburkok csak az intrauterin élet utolsó szakaszában alakulnak ki."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "99. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Az amnionüreget amnionfolyadék tölti ki, amelyet magzatvíznek is neveznek.",
+                "Az amnionüreget amnionfolyadék tölti ki, amelynek mennyisége a terhesség 10. héten kb. 30ml, a terhesség 37. hetére kb. 1000 ml.",
+                "A magzatvíz védőpárnaként szolgál a magzat számára.",
+                "Az amnionüreget amnionfolyadék tölti ki, amelynek mennyisége a terhesség alatt nem változik.",
+                "A magzatvíz megakadályozza, hogy az embryo kitapadjon az uterus falához."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "100. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "Magzati időszaknak nevezzük a kilencedik héttől kezdődően az intrauterin élet végéig tartó időszakot.",
+                "A magzat hosszúságát az ülőmagassággal is jelzik, ami a fejtető-far távolságot jelenti.",
+                "A magzat hosszúságát az állómagassággal is jelzik, ami a fejtető-sarok távolságot jelenti.",
+                "A magzat hosszúságát az ülőmagassággal is jelzik, ami az arckoponya-far távolságot jelenti.",
+                "A magzat hosszúságát az állómagassággal is jelzik, ami a fejtető-talp távolságot jelenti."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "101. Válassza ki a négy helyes megállapítást!",
+            "answers": [
+                "A terhesség időtartama az utolsó menstruáció első napjától számított 280nap vagy 40 hét.",
+                "A terhesség időtartama a megtermékenyítéstől számított 266 nap vagy 38 hét.",
+                "A terhesség harmadik hónapjában a magzat fejének hossza kb. fele a fejtető-far távolságnak.",
+                "A terhesség harmadik hónapjának kezdetén a magzat fejének hossza kb. fele a fejtető-far távolságnak, születéskor kb. negyede.",
+                "A terhesség harmadik hónapjának kezdetén a magzat fejének hossza kb. fele a fejtető-far távolságnak, születéskor kb. egytizede."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "102. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A magzati élet harmadik hónapjában a korábban oldalt elhelyezkedő szemek az arc ventralis oldalára kerülnek.",
+                "A magzati élet 12. hetére a külső nemi szervek fejlettsége eléri azt a szintet, hogy a magzat neme ultrahang vizsgálattal már megállapítható.",
+                "A primer csontosodási magok már a 12. héten jelen vannak a koponyában és a hosszú csontokban.",
+                "Legkésőbb a magzati élet 20. hetére a külső nemi szervek fejlettsége eléri azt a szintet, hogy a magzat neme ultrahang vizsgálattal már megállapítható.",
+                "A magzati élet hetedik hónapjában a korábban oldalt elhelyezkedő szemek az arc ventralis oldalára kerülnek."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "103. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A magzati érettség egyik jele, hogy a herék a herezacskóban vannak.",
+                "A magzati érettség egyik jele, hogy a testsúly 2500 g felett van.",
+                "A magzati érettség egyik jele, hogy a homlok és a haj határa éles.",
+                "A magzati érettség egyik jele, hogy a nagyajkak nem fedik a kisajkakat.",
+                "A magzati érettség egyik jele, hogy a körmök nem érnek túl az ujjbegyen."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "104. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A magzati élet végére a magzat testét vernix caseosa borítja, ami a faggyúmirigyek terméke.",
+                "A lanugo a magzat testét borító finom szőrzet.",
+                "A magzat korának meghatározásához használják a biparietalis átmérő értékét, amit ultrahang vizsgálattal mérnek.",
+                "A magzati élet kezdeti szakaszában a magzat testét vernix caseosa borítja, ami a terhesség félidejére eltűnik.",
+                "A lanugo a magzat testét borító zsírnemű anyag."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "105. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A primitív köldökgyűrű az amnion és a testfal közötti ovális képlet.",
+                "A primitív köldökgyűrűn halad keresztül a kötőnyél, ami az allantoist és a köldökereket tartalmazza.",
+                "A primitív köldökgyűrűn halad keresztül a ductus vitellinus és az azt kísérő szikerek.",
+                "A primitív köldökgyűrűn csak a kötőnyél halad keresztül.",
+                "A primitív köldökgyűrű az amnion és az endoderma közötti ovális képlet."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "106. Válassza ki a négy helyes megállapítást!",
+            "answers": [
+                "Az érett köldökzsinórt amnionhám borítja, a belsejében lévő erek a magzat teste és a placenta között létesítenek kapcsolatot.",
+                "Az érett köldökzsinór belsejében lévő erek magzati vért tartalmaznak, közülük a vena tartalmazza az oxigénben gazdagabb vért.",
+                "Az érett köldökzsinór belsejében lévő erek magzati vért tartalmaznak, közülük a két arteria tartalmazza az oxigénben szegényebb vért.",
+                "Az érett köldökzsinórban futó képleteket Wharton kocsonya veszi körül, ami a kötőszövet egyik fajtája.",
+                "Az érett köldökzsinórban futó erekben anyai vér található."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "107. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Az ikrek kb. kétharmada dizygota iker.",
+                "A kétpetéjű ikrek úgy jönnek létre, hogy két oocytát két különböző spermium termékenyít meg.",
+                "A kétpetéjű ikrek úgy jönnek létre, hogy egy oocytát két különböző spermium termékenyít meg.",
+                "A kétpetéjű ikrek úgy jönnek létre, hogy egy Graaf tüszőből két oocyta szabadul fel az ovuláció során.",
+                "A kétpetéjű ikrek úgy jönnek létre, hogy egy Graaf tüszőből kiszabaduló oocyta kettéoszlik és ezeket két különböző spermium termékenyíti meg."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "108. Válassza ki a négy helyes megállapítást!",
+            "answers": [
+                "A kétpetéjű ikerterhességnél általában két chorionüreg és két amnionüreg található meg.",
+                "A kétpetéjű ikerterhességnél általában két placenta található, de előfordulhat, hogy ezek összeolvadnak.",
+                "A kétpetéjű ikerterhességnél általában két chorionüreg található, de előfordulhat, hogy ezek összeolvadnak.",
+                "A monozygota ikreknél, ha az elkülönülés a kétsejtes stádiumban történik, a blastocysták külön-külön implantálódnak.",
+                "A monozygota ikreknél mindig két placenta alakul ki."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "109. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A monozygota ikrek genetikailag azonosak, és azonos neműek.",
+                "Egypetéjű ikerterhesség úgy is kialakulhat, hogy az embriócsomó a késői blastocysta időszakban válik ketté és ilyenkor minkét embryo saját placentával rendelkezik.",
+                "Egypetéjű ikerterhesség úgy is kialakulhat, hogy az embriócsomó a késői blastocysta időszakban válik ketté és ilyenkor mindkét embryo saját amnionüreggel rendelkezik.",
+                "A dizygota ikrek genetikailag azonosak, és lehetnek azonos- vagy különneműek.",
+                "A monozygora ikrek mindig közös placentával rendelkeznek."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "110. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "Egypetéjű ikerterhesség úgy is kialakulhat, hogy az embriócsomó a késői blastocysta időszakban válik ketté, ilyenkor a placenta mindig közös.",
+                "A fejlődés későbbi, késői blastocystát követő időszakában a primitív csík és csomó részleges kettéválása miatt összenőtt monozygota ikrek lesznek.",
+                "Egypetéjű ikerterhességnél mindig közös a placenta, az amnion- és a chorionüreg.",
+                "Egypetéjű ikerterhesség úgy is kialakulhat, hogy az embriócsomó a késői blastocysta időszakban válik ketté és ilyenkor csak a placenta közös, az amnion- és a chorionüreg különálló.",
+                "Az egypetéjű ikrek közös köldökzsinórral rendelkeznek."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "111. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A monozygota ikrek úgy jönnek létre, hogy egy oocytát egy spermium termékenyít meg.",
+                "Az ikrek kb. egyharmada monozygota iker.",
+                "A monozygota ikrek kizárólag úgy jönnek létre hogy a zygota kettéválik.",
+                "A monozygota ikrek kizárólag úgy jönnek létre hogy az embryócsomó két részre válik és a két rész teljesen elkülönül egymástól.",
+                "Az ikrek kb. 90%-a monozygota iker."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "112. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt üregek a syncytiotrophoblastban lévő lacunák, amelyekbe a fejlődés későbbi szakaszában anyai erek nyílnak be.",
+                "A nyíllal jelölt üregek a syncytiotrophoblastban lévő lacunák, amelyek a fejlődés későbbi időszakában kommunikálnak egymással.",
+                "A nyíllal jelölt üregek a syncytiotrophoblastban lévő lacunák, amelyeket anyai vér fog kitölteni ami az uteroplacentaris keringés kialakulásának első lépése.",
+                "A nyíllal jelölt üregek a syncytiotrophoblastban lévő lacunák, amelyekben amnionfolyadék található.",
+                "A nyíllal jelölt üregek a syncytiotrophoblastban lévő lacunák, amelyekbe a fejlődés későbbi szakaszában magzati erek nyílnak be."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "112_abra.jpg"
+        },
+        {
+            "question": "113. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt üreg az amnionüreg, amelyet amnioblastok és epiblast sejtek határolnak, benne amnionfolyadék található.",
+                "A nyíllal jelölt üreg az amnionüreg, amelyet amnioblastok és hypoblast sejtek határolnak, benne amnionfolyadék található.",
+                "A nyíllal jelölt üreg a blastocoel, amelyet amnioblastok és epiblast sejtek határolnak, benne amnionfolyadék található.",
+                "A nyíllal jelölt üreg az extraembryonalis coeloma, amelyet amnioblastok és epiblast sejtek határolnak, benne amnionfolyadék található.",
+                "A nyíllal jelölt üreg az amnionüreg, amelyet amnioblastok és epiblast sejtek határolnak, az üregbe később magzati erek nyílnak."
+            ],
+            "rightAnswers": [1],
+            "image": "113_abra.jpg"
+        },
+        {
+            "question": "114. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt üreg egy exocoeloma cysta, amely az exocoeloma üreg maradványa.",
+                "A nyíllal jelölt üreg a secunder szikhólyag (szikzacskó), amelyet amnioblast sejtek bélelnek.",
+                "A nyíllal jelölt üreg a definitív szikhólyag (szikzacskó), amely magzatvizet tartalmaz.",
+                "A nyíllal jelölt üreg egy exocoeloma cysta, amely a definitív szikhólyag (szikzacskó) maradványa.",
+                "A nyíllal jelölt üreg egy exocoeloma cysta, amely a blastocysta üreg maradványa."
+            ],
+            "rightAnswers": [1],
+            "image": "114_abra.jpg"
+        },
+        {
+            "question": "115. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt üreg a secunder/definitív szikhólyag (szikzacskó), amelyet hypoblast eredetű sejtek határolnak.",
+                "A nyíllal jelölt üreg a secunder/definitív szikhólyag (szikzacskó), amely az exocoeloma üregen belül alakul ki.",
+                "A nyíllal jelölt üreg a secunder/definitív szikhólyag (szikzacskó), amelyet epiblast sejtek bélelnek.",
+                "A nyíllal jelölt üreg egy exocoeloma üreg, amely a secunder/definitív szikhólyag (szikzacskó) maradványa.",
+                "A nyíllal jelölt üreg egy exocoeloma cysta, amelyet hypoblast sejtek bélelnek."
+            ],
+            "rightAnswers": [1, 2],
+            "image": "115_abra.jpg"
+        },
+        {
+            "question": "116. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt képlet a kötőnyél, ami az extraembryonalis mesoderma része.",
+                "A nyíllal jelölt képlet a kötőnyél, amely a köldökzsinór kialakításában vesz részt.",
+                "A nyíllal jelölt képlet a kötőnyél, ami áthidalja a chorionüreget.",
+                "A nyíllal jelölt képlet a kötőnyél, ami nem része az extraembryonalis mesodermának.",
+                "A nyíllal jelölt képlet a kötőnyél, ami a későbbiekben felszívódik."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "116_abra.jpg"
+        },
+        {
+            "question": "117. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A nyíllal jelölt, barna színű képlet a chorionlemez, ami az extraembryonalis mesoderma része.",
+                "A nyíllal jelölt, barna színű képlet a chorionlemez, amit kívülről a cytotrophoblast sejtek határolnak.",
+                "A nyíllal jelölt, barna színű képlet a chorionlemez, amely részt vesz a placenta bolyhok kialakításában.",
+                "A nyíllal jelölt, barna színű képlet a chorionlemez, ami nem része az extraembryonalis mesodermának.",
+                "A nyíllal jelölt, barna színű képlet a chorionlemez, amiből a chorda dorsalis alakul ki."
+            ],
+            "rightAnswers": [1, 2, 3],
+            "image": "117_abra.jpg"
+        },
+        {
+            "question": "118. Válassza ki a négy helyes állítást!",
+            "answers": [
+                "A testtengelyek kialakulása a gastrulatiós periódus előtt és alatt történik.",
+                "Az anteroposterior testtengely kialakulását az embryopajzs elülső (cranialis) szélén található sejtek szignálja indítja, a sejteket tartalmazó terület az elülső (anterior) visceralis endoderma.",
+                "A fej kialakulásához szükséges transzkripciós faktorok az OTX2, LIM1 és a HESX1.",
+                "A fej kialakulásához szükséges szekretált faktorok a cerberus és a lefty.",
+                "Az elülső (anterior) visceralis endoderma területén olyan gének expresszálódnak, amelyek a zsigerek fejlődéséhez szükségesek."
+            ],
+            "rightAnswers": [1, 2, 3, 4]
+        },
+        {
+            "question": "119. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A fej kialakulásához szükséges szekretált faktorok a cerberus és a lefty.",
+                "A testtengelyek kialakulása a gastrulatiós periódus előtt és alatt történik.",
+                "A mediolateralis testtengely kialakulását az embryopajzs elülső (cranialis) szélén található sejtek szignálja indítja, a sejteket tartalmazó terület az elülső (anterior) visceralis ectoderma.",
+                "A fej kialakulásához szükséges egyetlen transcriptiós faktor az OTX2.",
+                "Az elülső (anterior) visceralis endoderma területén olyan gének expresszálódnak, amelyek a primitív bélcső fejlődéséhez szükségesek."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "120. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A bone morphogenetic protein 4 (BMP4) és a fibroblast növekedési factor (FGF) hozzájárul az embryo ventralizációjához.",
+                "A chordin, noggin, follistatin és a Brachyury (T) gének aktivitása hozzájárul az embryo dorzalizációjához.",
+                "Az embryo dorsalizációja a BMP4 és a FGF hatására következik be.",
+                "Az embryo ventralizációja a Brachyury (T) gén aktivitása következtében jön létre azáltal, hogy antagonizálja a BMP4 működését.",
+                "A BMP4 és a noggin szinergisták az embryo dorsoventralis testtengelyének kialakítása során."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "121. Válassza ki a három helyes állítást!",
+            "answers": [
+                "Az oldaliság (bal-jobb aszimmetria) kialakulásának első lépéseként megindul a fibroblast növekedési factor 8 (FGF8) termelése.",
+                "Az oldaliság (bal-jobb aszimmetria) kialakulása során a primitív csomó és a primitív csík sejtjei FGF8-at termelnek.",
+                "Az oldaliság (bal-jobb aszimmetria) kialakulása során FGF8 indukálja a Nodal expresszióját, kizárólag az embryo bal oldalán.",
+                "Az oldaliság (bal-jobb aszimmetria) kialakulása a neurulatio után történik. Az anteroposterior testtengely kialakulásának első lépése a FGF8 szekréciójának megindulása."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "122. Válassza ki a két helyes állítást!",
+            "answers": [
+                "A bone morphogenetic protein 4 (BMP4) downregulatiója és a fibroblast növekedési factor (FGF) upregulatiója fontos szerepet játszik a neurulatióban.",
+                "A retinsav egy fontos morphogen a neurulatio során.",
+                "A FGF downregulatiója és a BMP4 upregulatiója fontos szerepet játszik a neurulatióban.",
+                "A retinsav nem játszik szerepet a neurulatio folyamatában.",
+                "A FGF és a BMP4 upregulatiója fontos szerepet játszik a neurulatióban."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "123. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A myeloid progenitor őssejtből (CFU-M) származik a vér valamennyi alakos eleme, a lymphocytákat kivéve.",
+                "A myeloid progenitor őssejtből (CFU-M) származik a vér valamennyi alakos eleme.",
+                "A myeloid progenitor őssejtből (CFU-M) származik a vér valamennyi alakos eleme, a vörösvérsejteket kivéve.",
+                "A myeloid progenitor őssejtből (CFU-M) csak a fehérvérsejtek származnak.",
+                "A myeloid progenitor őssejtből (CFU-M) csak az embryonalis korban fejlődnek a vér alakos elemei."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "124. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A haemopoietikus pluripotens őssejtek (CFU-S) az embryonális élet egy szakaszában a szikhólyag falában lévő extraembryonalis mesodermában találhatók.",
+                "A vér alakos elemeinek fejlődése során a lymphoid progenitor őssejtek (CFU-L) a szikhólyag falában lévő extraembryonalis mesodermában alakulnak ki.",
+                "A vér alakos elemeinek fejlődése során a myeloid progenitor őssejtek (CFU-M) a szikhólyag falában lévő extraembryonalis mesodermában alakulnak ki.",
+                "A vér alakos elemeinek fejlődése során a pluripotens myeloid őssejtek a szikhólyag falában lévő extraembryonalis mesodermában alakulnak ki, és innen vándorolnak be az embryo testébe.",
+                "A vér alakos elemeinek fejlődése során a pluripotens myeloid és lymphoid őssejtek a szikhólyag falában lévő extraembryonalis mesodermában alakulnak ki, és innen vándorolnak be az embryo testébe."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "125. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A hemopoiesis sejtjei közül a haemopoietikus pluripotens őssejt (CFU-S) az egyetlen olyan sejttípus amely képes önmagával azonos értékű pluripotens őssejt létrehozására.",
+                "A hemopoiesis sejtjei közül a haemopoietikus pluripotens őssejt (CFU-S) és a myeloid progenitor őssejt (CFU-M) képes önmagával azonos értékű sejt létrehozására.",
+                "A hemopoiesis sejtjei közül a haemopoietikus pluripotens őssejt (CFU-S) és a lymphoid progenitor őssejt (CFU-L) képes önmagával azonos értékű sejt létrehozására.",
+                "A hemopoiesis sejtjei közül csak a lymphoid progenitor őssejt (CFU-L) képes önmagával azonos értékű sejt létrehozására.",
+                "A hemopoiesis sejtjei közül csak a myeloid progenitor őssejt (CFU-M) képes önmagával azonos értékű sejt létrehozására."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "126. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A vér alakos elemeinek fejlődése során a haemopoietikus pluripotens őssejtből (CFU-S) myeloid és lymphoid progenitor őssejtek (CFU-M, CFU-L) is kialakulhatnak.",
+                "A vér alakos elemeinek fejlődése során a haemopoietikus pluripotens őssejtek (CFU-S) osztódása eredményeként egy önmagával azonos értékű CFU-S is keletkezik.",
+                "A haemopoietikus pluripotens őssejt (CFU-S) az élet végéig megtartja őssejt tulajdonságát.",
+                "A haemopoietikus pluripotens őssejt (CFU-S) a születésig tartja meg őssejt tulajdonságát.",
+                "A haemopoietikus pluripotens őssejt (CFU-S) a pubertás korig tartja meg őssejt tulajdonságát."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "127. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A magzati életben a vérképzés helye a szikhólyag, a máj, a lép és a csontvelő.",
+                "A születést követően a vér alakos elemeinek képződése a vörös csontvelőben történik.",
+                "A magzati életben a belső szervek közül a vérképzés legrövidebb ideig a lépben történik.",
+                "A magzati életben a belső szervek közül a vérképzés legrövidebb ideig a májban történik.",
+                "A magzati életben a belső szervek közül a vérképzés legrövidebb ideig a vörös csontvelőben történik."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "128. Válassza ki a három helyes megállapítást!",
+            "answers": [
+                "A vérképzésben szereplő haemopoietikus pluripotens őssejt (CFU-S) a vörös csontvelőben és a perifériás vérben is megtalálható.",
+                "A vérképzésben szereplő haemopoietikus pluripotens őssejtek (CFU-S) alakja és nagysága a kis lymphocytához hasonló.",
+                "A vérképzésben szereplő haemopoietikus pluripotens őssejtek (CFU-S) specifikus markerek segítségével ismerhető fel.",
+                "A vérképzésben szereplő haemopoietikus pluripotens őssejt (CFU-S) csak a vörös csontvelőben található meg.",
+                "A vérképzésben szereplő haemopoietikus pluripotens őssejt (CFU-S) alakja és nagysága a monocytához hasonló."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "129. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A vörösvértest fejlődése során a legfiatalabb, morfológiailag felismerhető sejt a proerythroblast.",
+                "A proerythroblast acidophil festődésű cytoplazmája a hemoglobin megjelenésére utal.",
+                "A proerythroblast acidophil festődésű cytoplazmája a hemoglobin hem komponensének megjelenésére utal.",
+                "A vörösvértest fejlődése során az első, maggal rendelkező sejt az oxyphil (ortochromatophil) erythroblast vagy normoblast.",
+                "Az erythropoiesis során az utolsó, maggal még rendelkező sejt a reticulocyta."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "130. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "Az erythropoiesis szabályozásában szereplő egyik faktor az erythropoietin, amely a vesében termelődik.",
+                "Az erythropoiesis szabályozásában szereplő egyik faktor az erythropoietin, amely a vörös csontvelőben termelődik.",
+                "Az erythropoiesis során a sejtek átmérője a fiatal alakoktól az érett vörösvértestig fokozatosan növekszik.",
+                "Az erythropoiesis során a sejtek átmérője a fiatal alakoktól az érett vörösvértestig nem változik.",
+                "Az erythropoiesis során a sejtek átmérője először növekedik, majd az érettebb alakokban csökken."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "131. Válassza ki a két helyes megállapítást!",
+            "answers": [
+                "A granulopoiesis során a legfiatalabb, morfológiailag felismerhető sejt a myeloblast.",
+                "A granulopoiesis során a nem specifikus granulumok a promyelocytában jelennek meg.",
+                "A granulopoiesis során a specifikus szemcsék a promyelocytában jelennek meg.",
+                "A granulopoiesis során a nem specifikus szemcsék a myelocytákban jelennek meg.",
+                "A granulopoiesis során a nem specifikus szemcsék a myeloblastban jelennek meg."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "132. Válassza ki az egymást követő sejtek egyetlen helyes sorrendjét a granulopoiesis során!",
+            "answers": [
+                "Myeloblast, promyelocyta, myelocyta, metamyelocyta vagy jugend, stab, granulocyta",
+                "Promyelocyta, myeloblast, myelocyta, metamyelocyta vagy jugend, stab, granulocyta",
+                "Myelocyta, promyelocyta, myeloblast, metamyelocyta vagy jugend, stab, granulocyta",
+                "Promyeloblast, promyelocyta, myelocyta, metamyelocyta vagy jugend, stab, granulocyta",
+                "Myeloblast, promyelocyta, metamyelocyta vagy jugend, myelocyta, stab, granulocyta"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "133. Válassza ki az egymást követő sejtek egyetlen helyes sorrendjét az erythropoiesis során!",
+            "answers": [
+                "Proerythroblast, basophil erythroblast, orthochromatophil erythroblast, oxyphil erythroblast vagy normoblast, reticulocyta, erythrocyta.",
+                "Basophil erythroblast, proerythroblast, orthochromatophil erythroblast, oxyphil erythroblast vagy normoblast, reticulocyta, erythrocyta.",
+                "Basophil erythroblast, oxyphil erythroblast vagy normoblast, proerythroblast, orthochromatophil erythroblast, reticulocyta, erythrocyta.",
+                "Basophil erythroblast, orthochromatophil erythroblast, oxyphil erythroblast vagy normoblast, proerythroblast, reticulocyta, erythrocyta.",
+                "Orthochromatophil erythroblast, basophil erythroblast, oxyphil erythroblast vagy normoblast, proerythroblast, reticulocyta, erythrocyta."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "134. Válassza ki az egyetlen helyes megállapítást!",
+            "answers": [
+                "A granulocyták progenitor őssejtjei (CFU-G) egy közös monocyta-granulocyta progenitor őssejtből (CFU-GM) alakulnak ki.",
+                "A granulocyták progenitor őssejtjei (CFU-G) közvetlenül a haemopoietikus pluripotens őssejtből (CFU-S) alakulnak ki.",
+                "A monocyták progenitor őssejtje (CFU-Mo) közvetlenül a haemopoietikus pluripotens őssejtből (CFU-S) alakul ki.",
+                "A vér valamennyi alakos elemének a progenitor sejtje közvetlenül a haemopoietikus pluripotens őssejtből (CFU-S) alakul ki.",
+                "A vörösvértestek progenitor őssejtje közvetlenül a haemopoietikus pluripotens őssejtből (CFU-S) alakul ki."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "135. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "A végtagok csontjai az oldallemez mesoderma fali lemezéből származnak.",
+                "A végtagok izomzata a somitákból kivándorló sejtekből differenciálódik.",
+                "A végtagokban található porcszövet a parietális lemezből származó mesenchyma sejtekből fejlődik.",
+                "A végtagok izomzata az oldallemez mesoderma parietalis lemezéből származik.",
+                "A végtagok csontjai a somiták sclerotomjából a végtagbimbókba vándorló mesenchyma sejtekből differenciálódnak."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "136. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "A szabad végtagokban nincs desmálisan csontosodó csont.",
+                "A végtagbimbók a 4. embrionális hét végén kezdenek megjelenni.",
+                "A végtagbimbók közül a felső végtag kezdeménye jelenik meg korábban.",
+                "Az alsó végtagot kialakító végtagbimbó hamarabb jelenik meg az embrióban, mint a felső végtag kezdeménye.",
+                "Az ujjak az 5. embrionális héten különülnek el egymástól a fejlődő kézen."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "137. Válassza ki a HÁROM helyes állítást!",
+            "answers": [
+                "Az apicalis ectodermalis ridge sejtjei tartják fent a fejlődő végtagban a progressziós zónát.",
+                "Az ujjak teljes elkülönülése a 8. embrionális hét folyamán történik meg.",
+                "Az AER sejtjeit erőteljes FGF4 és FGF8 termelés jellemzi.",
+                "A végtagok proximo-distalis tagolódásának elsődleges szabályozó tényezője a Sonic Hedgehog, amit az AER sejtjei termelnek.",
+                "A polydactylia kialakulása a HOX gének rossz sorrendben történő megjelenésével magyarázható."
+            ],
+            "rightAnswers": [1, 2, 3]
+        },
+        {
+            "question": "138. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "A végtagok izomzatát kialakító mesenchyma sejtek a somiták dermamyotomjából vándorolnak a végtagbimbókba.",
+                "A vázizom differenciációjának egyik fő irányító transzkripciós faktora a MYOD.",
+                "A végtagok bőrének kötőszövetét létrehozó mesenchyma az oldallemez dermatomjának a származéka.",
+                "A végtagok izomzata az oldalmesoderma myotomjából fejlődik ki a Myf-5 transzkripciós faktor irányítása mellett.",
+                "A hosszú csöves csontokban már magzati korban megjelennek az epiphysisek elsődleges csontosodási magjai."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "139. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "Az organogenesis során ható teratogének okozhatnak végtagfejlődési rendellenességeket.",
+                "A végtagok bőrének kötőszövete a megfelelő somiták dermamyotomjának származéka.",
+                "A felső végtag kezdeménye már az embryo lefűződése során megjelenik.",
+                "A végtagok csontjai az ectomesenchyma származékai.",
+                "A polarizáló aktivitás zónájának működési zavara ameliához vezet."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "140. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "A végtagok csontjainak csontosodása chondralis csontosodással történik.",
+                "Születéskor a hosszú csöves csontok epiphysisei még teljesen porcosak.",
+                "A végtagok csontosodása a 8. embrionális héten indul meg.",
+                "A végtagokban található rövid csontok porctelepei már a születés idejére elcsontosodnak.",
+                "A kéz- és láblemezeken az ujjak az AER apoptózisát követően alakulnak ki."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "141. Válassza ki a KÉT helyes állítást!",
+            "answers": [
+                "Az A-vitamin nagyobb dózisai erősen teratogének lehetnek, egyebek mellett súlyos végtagfejlődési rendellenességeket is okozhatnak.",
+                "A teratogén ágensek különösen veszélyesek a 4-8. embryonális heteken, mert ez az organogenesis elsődleges ideje.",
+                "A végtagok dorso-ventralis tengely menti rendeződésében elsődleges fontosságú a polarizáló aktivitás zónájának hatása, amit retinol útján fejt ki.",
+                "A terhesség tizedik hetében bekövetkező ellentétes irányú forgás határozza meg a végtagok végleges orientációját, ami miatt az alsó végtag extensorai ventralis helyzetűek.",
+                "A végtagok dorso-ventralis tengelyének kialakulásához szükséges a ZPA-ból származó WNT jelátvitel."
+            ],
+            "rightAnswers": [1, 2]
+        },
+        {
+            "question": "142. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A végtagok cranio-caudalis elhelyezkedését a HOX gének által kódolt transzkripciós faktorok szabályozzák.",
+                "A végtagok proximo-distalis tagolódását a HOX gének termékeinek szakaszos kifejeződése határozza meg.",
+                "A polarizáló aktivitás zónája nem vesz részt a Sonic Hedgehog expresszió szabályozásában.",
+                "A kisujj helyzetét a kézen a SHH hiánya határozza meg.",
+                "Az A-vitamin származékok súlyos végtagfejlődési rendellenességeket okozhatnak a terhesség második trimeszterében"
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "143. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A végtagok ventralis oldali ectodermájában termelődő BMP fehérjék hatásának gátlása szükséges a dorsalis oldal meghatározásához.",
+                "A végtagok dorsalis oldalán erőteljes BMP hatás szükséges a megfelelő dorso-ventralis irányú képlet elrendeződéshez.",
+                "Az AER által termelt FGF8 szükséges a végtagok dorsalis oldali képleteinek kifejlődéséhez.",
+                "A dorso-ventralis végtag tengely kialakításához WNT 4 és WNT8 molekulák jelátvitelére van szükség a polarizáló aktivitás zónájában.",
+                "A végtagtelepek ectodermájában expresszálódó FGF4 indukálja a MYOD génjének aktiválódását."
+            ],
+            "rightAnswers": [1]
+        },
+        {
+            "question": "144. Válassza ki az EGYETLEN helyes állítást!",
+            "answers": [
+                "A végtagok hyalinporcos telepeit kialakító mesenchymasejtek az intraembryonalis somatopleura származékai.",
+                "A végtagok izmait kialakító myoblastok az extraembryonális somatopleurából vándorolnak be a végtagtelepekbe",
+                "A patella desmalis úton csontosodik.",
+                "Az ízületek helyét kijelölő interzónák sejtjeit FGF5 expresszió jellemzi.",
+                "A kéztőcsontok porcos telepeinek elsődleges csontosodási magjai már az újszülöttekben is jelen vannak."
+            ],
+            "rightAnswers": [1]
         }
     ]
 }
